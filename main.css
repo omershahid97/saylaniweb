@@ -1,0 +1,248 @@
+/* * {
+    font-family: Arial, Helvetica, sans-serif;
+} */
+
+html {
+    scroll-behavior: smooth;  
+}
+.row{
+    width: 100%;
+}
+
+li {
+    display: inline-block;
+}
+
+.headermain {
+    background-color: #316DC3;
+    margin: auto;
+}
+
+.socialicons {
+    margin: 0;
+    display: block;
+    text-align: center;
+}
+
+.socialicons a {
+    color: white;
+    width: 32px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.socialicons a:hover {
+    background-color: rgb(78, 125, 192);
+}
+
+.headerpara {
+    text-align: center;
+    color: white;
+    display: block;
+    padding-top: 6px;
+}
+
+.headerbutton {
+    margin: 0;
+    display: block;
+    text-align: center;
+    font-size: 10px;
+    padding-top: 6px;
+}
+
+.navstyle a:hover {
+    background-color: #316DC3;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+
+a#homebtn {
+    background-color: #316DC3;
+    border-radius: 10px;
+    color: white;
+}
+
+a {
+    color: black;
+}
+
+.navstyle {
+    margin-right: 65px;
+    float: right;
+    padding-top: 7px;
+    font-size: 12px;
+    
+    
+}
+
+.navstyle a {
+    font-size: 12px;
+}
+
+.navstyle li {
+    display: inline-block;
+}
+
+.navlogo {
+    width: 170px;
+    margin-left: 95px;
+    float: left;
+    /* padding-top: 10px; */
+}
+
+/* .navlink{
+    padding: 100px;
+    text-decoration: none;
+} */
+
+/* .navbarstyle{
+    padding-right: 90px;
+} */
+
+/* .buttons{
+        text-align: center;
+        text-decoration: none;
+        background-color: yellow;
+} */
+
+.navbarmain {
+    /* background-color: #F7F8FA; */
+    height: 60px;
+    clear: both;
+    width: 100%;
+    
+  
+   
+}
+
+.carousel-item>img {
+    height: 500px
+}
+
+.newsmarquee {
+    direction: left;
+    background-color: #316DC3;
+    color: white;
+    margin: auto 15%;
+}
+
+.newsmarquee span {
+    color: #00ff00;
+}
+
+.newsmarquee a {
+    color: blue;
+}
+
+.intro {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /* background-color: palevioletred; */
+    text-align: justify;
+    margin-left: 15%;
+    margin-right: 15%;
+    clear: both;
+}
+
+.intro h1 {
+    color: #316DC3;
+    font-weight: 600;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.intro span {
+    color: #427900;
+}
+
+.favicon {
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.9;
+    visibility: visible;
+}
+
+.services {
+    background-color: blue;
+    height: 300px;
+}
+
+.address {
+    padding-left: 15%;
+}
+
+.footer {
+    background-color: #316DC3;
+    color: white;
+    height: 40px;
+    font-size: 12px;
+    padding-left: 120px;
+    padding-top: 10px;
+}
+
+.footer-icons a {
+    background-color: #316DC3;
+    color: white;
+    border-radius: 40px;
+    padding: 12px 12px;
+}
+
+.topbutton {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: transparent;
+    bottom: 40px;
+    right: 50px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+    border: none;
+}
+
+.countermain {
+    background-color: #2755E9;
+}
+
+.counter {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    vertical-align: middle;
+}
+
+.counter i {
+    color: white;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.counter p {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-bottom: 0;
+    font-family: serif;
+}
+
+.counter h4 {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 20px;
+}

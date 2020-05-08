@@ -1,0 +1,32 @@
+.logo {
+    color: #6758B3;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.thanks {
+    text-align: center;
+    color: #6758B3;
+}
+
+#tick {
+    padding-right: 20px;
+}
+
+#h1 {
+    color: #2CA02C
+}
+
+form {
+    background-color: #6758B3;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    padding-left: 300px;
+}
+
+table {
+    border-spacing: 20px;
+    border: 0;
+}
+
